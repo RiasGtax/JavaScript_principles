@@ -15,6 +15,7 @@ function checkscope2() {
 }
 
 console.log(checkscope2());
+// Misma respuesta que el anterior ejercicio, variables locales, se llama al metodo y vuelven con un return
 
 console.log(scope);
 console.log(myscope);           // => WTF ¿?
